@@ -1,0 +1,33 @@
+.home {
+  background-color: #495e57;
+  color: white;
+  width: 100%;
+}
+h1,
+h2 {
+  font-family: Markazi Text, serif;
+}
+
+.body-text {
+  padding: 48px 48px 72px 72px;
+  text-align: left;
+  margin-left: 144px;
+}
+h1 {
+  color: #f4ce14;
+  font-size: 60px;
+  font-weight: 700;
+}
+
+.rounded-button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px; /* Adjust the border-radius for the desired roundness */
+  background-color: #f4ce14; /* Button background color */
+  color: black; /* Button text color */
+}

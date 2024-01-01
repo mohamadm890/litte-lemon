@@ -1,0 +1,41 @@
+.about-continer {
+  background-color: #f4ce14;
+  padding: 72px;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+.h-about {
+  color: black;
+}
+section {
+  left: 2rem;
+  max-height: 18rem;
+  position: relative;
+  top: 0rem;
+}
+
+.img-about1 {
+  height: 100%;
+  object-fit: cover;
+  width: 60%;
+}
+
+.img-about {
+  left: 0rem;
+  position: absolute;
+  top: -3.5rem;
+  object-fit: cover;
+  max-height: 24rem;
+  font-size: 2rem;
+  height: 100%;
+}
+.content-about > p {
+  font-size: 1rem;
+  line-height: 1.6;
+  display: block;
+}
+
+.content-about {
+  text-align: left;
+}

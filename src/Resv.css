@@ -1,0 +1,27 @@
+.reservation-form {
+  display: flex;
+  padding: 72px;
+  margin-bottom: 102px;
+  background-color: #edefee;
+  width: 100%;
+  height: 100%;
+}
+
+.divider {
+}
+
+.divider1 {
+  background-color: #edefee;
+}
+.action-button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px; /* Adjust the border-radius for the desired roundness */
+  background-color: #f4ce14; /* Button background color */
+  color: black; /* Button text color */
+}

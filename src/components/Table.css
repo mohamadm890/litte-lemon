@@ -1,0 +1,43 @@
+.table {
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-top: 24px;
+}
+
+.header-table {
+  justify-items: center;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.h-table {
+  color: black;
+  margin-right: 500px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.button-table {
+  display: inline-block;
+  vertical-align: top;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px; /* Adjust the border-radius for the desired roundness */
+  background-color: #f4ce14; /* Button background color */
+  color: black; /* Button text color */
+  box-sizing: border-box;
+  height: 47px;
+}
+.table-card {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}

@@ -1,0 +1,38 @@
+.footer {
+  background-color: #495e57;
+  padding: 72px;
+  width: 100%;
+}
+.footer-content > img {
+  width: 150px; /* Adjust the width based on your design */
+  height: auto;
+  background-color: white;
+}
+.header-footer {
+  color: white;
+  font-size: 32px;
+}
+.footer-content {
+  display: flex;
+  align-items: center;
+  color: white;
+  justify-content: speace-between;
+}
+.element-footer {
+  display: flex;
+  margin-left: 100px;
+}
+li {
+  margin-left: 24px;
+}
+
+.Connect {
+  margin-left: 47px;
+}
+.Contect {
+  margin-left: 47px;
+}
+
+.nav {
+  margin-left: 24px;
+}
